@@ -7,7 +7,7 @@ Projeto de simulação do youtube com foco em acessibilidade
 | -------------  | --- |
 | :sparkles: Nome        | **VidFlow**
 | :label: Tecnologias | JavaScript, Nodejs e Vite.
-| :rocket: URL         | 
+| :rocket: URL         | https://vidflow-acessibilidade.vercel.app/
 | :fire: Desafio     | https://cursos.alura.com.br/course/acessibilidade-html-css-javascript-projeto-nvda
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
