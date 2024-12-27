@@ -12,7 +12,7 @@ Projeto de simulação do youtube com foco em acessibilidade
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
-![vidflow](https://github.com/user-attachments/assets/4b013324-e263-4c6b-9bfc-255cebfbdcef)
+![vidflow](https://github.com/user-attachments/assets/4b013324-e263-4c6b-9bfc-255cebfbdcef#vitrinedev)
 
 
 <p align="center">
